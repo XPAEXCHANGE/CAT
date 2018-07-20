@@ -1,2 +1,2 @@
 # CAT
-Cross-chain Acceleration Tunnel cat
+Cross-chain Acceleration Tunnel
